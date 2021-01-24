@@ -1,0 +1,11 @@
+[
+  {
+    "enabled":      true,
+    "uxf_filename": "PlainIambicWithSpeedEncoder.uxf",
+    "filename":     "keyer.cpp",
+    "type":         "keyer",
+    "object_ptr":   "pKeyer",
+    "queue_size":   1,
+    "debug":        true
+  }
+]
